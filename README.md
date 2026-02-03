@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Back-end em formação  
 🐍 Foco em Python  
-🧠 Forte em lógica, algoritmos e C++
+🧠 Forte em lógica, algoritmos e C
 
 ### 🚀 Tecnologias
 - Python (FastAPI / Flask)
