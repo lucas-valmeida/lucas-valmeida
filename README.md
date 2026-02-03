@@ -6,11 +6,11 @@
 
 ### 🚀 Tecnologias
 - Python (FastAPI / Flask)
-- C++ (algoritmos e estruturas de dados)
+- C (algoritmos e estruturas de dados)
 - Git e GitHub
 - SQL (em aprendizado)
 
 ### 📌 Projetos em destaque
 - [API de Cadastro](https://github.com/lucas-valmeida/api-cadastro-python)
 - [Sistema de Autenticação](link)
-- [Algoritmos em C++](link)
+- [Algoritmos em C](link)
